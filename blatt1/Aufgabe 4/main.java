@@ -2,6 +2,7 @@ import java.util.*;
 
 public class main {
     public static void selberRaten() {
+        //kafayiyicm
         Scanner input = new Scanner(System.in);
         Random randomize =new Random();
         int unsereNummer =randomize.nextInt(100);
