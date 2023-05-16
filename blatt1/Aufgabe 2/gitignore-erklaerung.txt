@@ -1,0 +1,5 @@
+.gitignore funktionert zu einfach. Man muss Programmpfad mit Dateinamenserweiterung(.txt, .java) schreiben und git wird dieser Pfad nicht 
+verfolgen. Dateien, die bereits von Git verfolgt werden, sind nicht betroffen!
+
+Gitignore works so easy. You have to put the program path with the file extension(.txt, .java) and git wont track these files. But important
+to know is that files already tracked by Git are not affected.
