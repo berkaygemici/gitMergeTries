@@ -5,6 +5,7 @@ import java.lang.Math;
 public class main {
     public static void computerRaten(int numToGuess) {
         double rand = Math.random() * 101;
+        //lutfenlutfen
         int randomNumber = (int) rand;
         //0'dan 100e kadar
         System.out.println("Random Number:" + randomNumber);
